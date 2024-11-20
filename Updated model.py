@@ -11,7 +11,7 @@ import re
 # Ensure NLTK data is downloaded
 nltk.download('punkt')
 
-# THISSSSSSSSSSSSSSSSSSS ISSSSSSSS A TESSSSSS
+# THISSSSSSSSSSSSSSSSSSS ISSSSSSSS A TESSSSSSS
 
 # Read Data set
 df = pd.read_csv('spam.csv', encoding='latin1')
